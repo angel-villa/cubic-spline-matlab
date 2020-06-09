@@ -8,7 +8,7 @@
  
  ![](plot_tanh.png)
  
- 10 knot points
+ 10 knot points, some overfitting
  
  ![](plot_tanh_10knots.png)
  
@@ -20,7 +20,7 @@
  Noisy sin(2 x^2) from x = -1 to x = 2.
  ------
  
- Limited by number of knot points when using 5. Some overfitting at 10.
+ Limited by number of knot points when using 5
  
  5 knot points
  
